@@ -1,0 +1,54 @@
+<body>
+	<div class="pagina-embrulho">
+		<!-- Preloader -->
+		<div class="precarregamento" style="display: none;"></div>
+		<!-- Main Header -->
+		<header class="cabecalho-principal fixar-cabecalho-principal">
+			<div class="cabecalho-topo">
+				<div class="auto-container">
+					<div class="linha clearfix">
+						<div class="cabecalho-topo-logo">
+ 						   <a href="index.html"><img src="assets/images/logo.jpg" alt="Carshire" title="Carshire"></a>
+ 						</div>
+ 						<div class="cabecalho-topo-info">
+ 							<div class="cabecalho-area-info">
+ 							 	<div class="phone-info">
+ 							 		<h3>Ligue para nós agora</h3>
+ 							 		<h2>(75 98888 8153</h2>
+ 							 	</div>
+ 							 	<div class="timer-info">
+ 							 		<h3>Horário de Funcionamento</h3>
+ 							 		<h2>Seg - Sáb 8.00 - 19.00</h2>
+ 							 	</div>
+                            </div>    
+ 						</div>
+					</div>	
+				</div>
+			</div>
+			<div class="cabecalho-mais-baixo">
+        		<div class="auto-container">
+            		<div class="linha clearfix">
+            			<div class="menu">
+                            <nav>
+                                <ul>
+                                    <li><a href="#">HOME</a></li>
+                               
+                                </ul>    
+                            </nav>
+                        </div> 
+                        <div class="social-right">
+                        	
+                        </div>
+            		</div>
+            	</div>
+            </div>			
+	    </header> 
+	    <section class="banner">
+
+	    </section>	
+	    <section class="auto-container">
+	  	   <h1>OUTROS CONTEUDOS</h1>
+	    </section>
+	</div>      
+</body>
+</html>
