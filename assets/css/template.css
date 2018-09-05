@@ -256,6 +256,7 @@ article .area-resumo {
     border: 1px solid #CCC;
     background-color: #FFF;
     margin-bottom: 10px;
+    line-height: 0px;
 }   
 .sobre-corpo{
 	display: none;
