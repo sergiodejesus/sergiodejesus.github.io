@@ -7,6 +7,6 @@ https://sergiodejesus.github.io/ense/
 
 https://sergiodejesus.github.io/portal_noticias/
 
-https://sergiodejesus.github.io/mediacenter/
+https://sergiodejesus.github.io/medicenter/
 
 
