@@ -3,10 +3,10 @@ https://sergiodejesus.github.io/
 
 # Outros Projetos:
 
-http://ense.eu5.org/projeto01/
+https://sergiodejesus.github.io/ense/
 
-http://ense.eu5.org/projeto02/
+https://sergiodejesus.github.io/portal_noticias/
 
-http://ense.eu5.org/projeto03/
+https://sergiodejesus.github.io/mediacenter/
 
 
