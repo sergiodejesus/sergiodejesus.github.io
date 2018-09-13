@@ -2,7 +2,7 @@
 https://sergiodejesus.github.io/
 
 # Outros Projetos:
-https://sergiodejesus.github.io/portifolio/
+https://sergiodejesus.github.io/portfolio/
 
 https://sergiodejesus.github.io/
 
