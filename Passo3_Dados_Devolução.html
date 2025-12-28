@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Fila Zero | Retirada de Devoluções</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background: #f4f6f8;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 420px;
+            margin: 40px auto;
+            background: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+            padding: 25px;
+        }
+
+        .logo {
+            text-align: center;
+            font-size: 28px;
+            font-weight: bold;
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
+
+        .subtitle {
+            text-align: center;
+            font-size: 16px;
+            color: #555;
+            margin-bottom: 25px;
+        }
+
+        .info {
+			border-radius: 8px;
+            font-size: 14px;
+			font-weight: bold;
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+		.cont_pagina {
+			text-align: center;
+			background: #ecf0f1;
+			padding: 4px;
+			border-radius: 8px;
+			font-size: 14px;
+        }
+
+        label {
+            font-size: 14px;
+            font-weight: bold;
+            margin-top: 10px;
+            display: block;
+        }
+
+        input, select {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            border-radius: 6px;
+            border: 1px solid #ccc;
+            font-size: 14px;
+        }
+
+        .button {
+            width: 100%;
+            margin-top: 20px;
+            background: #27ae60;
+            color: #fff;
+            border: none;
+            padding: 14px;
+            font-size: 16px;
+            border-radius: 8px;
+            cursor: pointer;
+        }
+		 .button_voltar {
+            width: 100%;
+            margin-top: 20px;
+            background: #484644;
+            color: #fff;
+            border: none;
+            padding: 14px;
+            font-size: 16px;
+            border-radius: 8px;
+            cursor: pointer;
+        }
+
+        .button:hover {
+            background: #219150;
+        }
+
+        .footer {
+            text-align: center;
+            font-size: 12px;
+            color: #888;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="logo">Fila Zero</div>
+    <div class="subtitle">
+        Retirada para Postagem de Devoluções sem Fila nos Correios
+    </div>
+
+    <div class="info">
+        DADOS DA DEVOLUÇÃO
+    </div>
+
+	<div class="cont_pagina">
+        Passo 2 de 4
+    </div>
+
+    <form>
+
+        <label>Loja / Marketplace</label>
+        <input type="text" placeholder="Ex: Mercado Livre">
+
+		<label>Motivo da Devolução</label>
+        <input type="text" placeholder="">	
+		
+		<label>Data Limite para Postagem</label>
+        <input type="text" placeholder="">	
+		    
+        <button class="button" type="button"
+        onclick="window.location.href='Passo4_Pacote_Volume.html'">
+			Próximo Passo
+		</button>
+		
+        <button class="button_voltar" type="button"
+        onclick="window.location.href='Passo2_Dados_Cliente.html'">
+			Voltar
+		</button>
+
+    </form>
+
+    <div class="footer">
+        Fila Zero © 2025<br>
+        Atendimento via WhatsApp
+    </div>
+
+</div>
+
+</body>
+</html>
